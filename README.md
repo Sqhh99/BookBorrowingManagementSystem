@@ -109,7 +109,7 @@ This is my Java course design
 
 3. **数据分析**
     - 系统提供了三个数据统计图：书籍价格统计、书籍库存统计、用户借阅统计。以下选取书籍借阅图进行展示，统计图的信息会根据用户操作而更新。
-    - ![image](https://github.com/Sqhh99/BookBorrowingManagementSystem/assets/127586242/ffbaad6f-f38f-4708-8384-39ed500a8e5a)
+    - ![image](https://github.com/Sqhh99/BookBorrowingManagementSystem/assets/127586242/0b6b1e15-b1e4-4b51-b64c-5bc6c2ac642c)
 
 
 
