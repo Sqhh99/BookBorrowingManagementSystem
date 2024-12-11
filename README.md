@@ -1,5 +1,5 @@
 # BookBorrowingManagementSystem
-This is my Java course design
+普普通通的图书借阅管理系统
 ## Declaration
 - The compiler software used is IntelliJ IDEA 2023.1
 - The database software is DataGrip 2023.1.1
